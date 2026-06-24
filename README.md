@@ -1,0 +1,1 @@
+# clas-masteer-_singleton_factory
